@@ -1,5 +1,5 @@
 # 2021_eLife
-This code was used in the following publication:
+The code was used in the following publication:
 
 Calcium dependence of neurotransmitter release at a high fidelity synapse.
 Eshra A, Schmidt H, Eilers J, Hallermann1 S.
