@@ -2,7 +2,7 @@
 The code was used in the following publication:
 
 Calcium dependence of neurotransmitter release at a high fidelity synapse.
-Eshra A, Schmidt H, Eilers J, Hallermann1 S.
+Eshra A, Schmidt H, Eilers J, Hallermann S.
 eLife 2021 
 
 
