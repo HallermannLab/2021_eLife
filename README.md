@@ -1,9 +1,9 @@
 # 2021_eLife
 The code was used in the following publication:
 
-Calcium dependence of neurotransmitter release at a high fidelity synapse.
-Eshra A, Schmidt H, Eilers J, Hallermann S.
-eLife 2021 
+Calcium dependence of neurotransmitter release at a high fidelity synapse.  
+Eshra A, Schmidt H, Eilers J, Hallermann S.  
+eLife 2021  
 
 
 The Mathematica code was used to analyze the release kinetics of model 1, 2, and 3. 
